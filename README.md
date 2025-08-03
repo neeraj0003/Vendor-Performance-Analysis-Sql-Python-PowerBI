@@ -158,4 +158,4 @@ python scripts/get_vendor_summary.py
 **Neeraj Kumar Thakur**  
 Data Analyst  
 📧 Email: ineeraj0003@gmail.com  
-🔗 [LinkedIn]([https://www.linkedin.com/in/ayushi-mishra-30813b174/](https://www.linkedin.com/in/neeraj-kumar-thakur-583a45249/)) 
+🔗 [LinkedIn](https://www.linkedin.com/in/neeraj-kumar-thakur-583a45249/)
