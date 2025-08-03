@@ -155,8 +155,7 @@ python scripts/get_vendor_summary.py
 ---
 <h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
 
-**Ayushi Mishra**  
+**Neeraj Kumar Thakur**  
 Data Analyst  
-📧 Email: techclasses0810@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/ayushi-mishra-30813b174/)  
-🔗 [Portfolio](https://www.youtube.com/@techclasses0810/)
+📧 Email: ineeraj0003@gmail.com  
+🔗 [LinkedIn]([https://www.linkedin.com/in/ayushi-mishra-30813b174/](https://www.linkedin.com/in/neeraj-kumar-thakur-583a45249/)) 
